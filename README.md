@@ -1,7 +1,7 @@
-<p><img src="imagem" align="left" height="150px" width="150px">
-    <h1># Título</h1> 
+<p><img src="https://user-images.githubusercontent.com/63436406/147420401-43944599-fe44-4910-9e9d-cc3f0f842c7c.png" align="left" height="150px" width="150px">
+    <h1># Construindo Encurtador de URL</h1> 
     <p align="justify">
-    Você digitar texto aqui.
+    Neste projeto desenvolda seu próp´rio encurtador de url a partir da construção de uma API com NodeJS, Typescript e MongoDB para a base de dados.
     </p>
 </p>      
 
